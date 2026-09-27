@@ -16,7 +16,7 @@
 
 ###
 
-<h2 data-importer="text" align="center">Language and Tools</h2>
+<h2 data-importer="text" align="center">Languages and Tools</h2>
 
 ###
 
